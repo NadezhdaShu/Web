@@ -1,0 +1,58 @@
+h1 {
+    color:darkgreen;
+    text-align: center;
+    text-transform: initial;
+    font-size: 50px;
+}
+
+html {
+    background-color: rgb(235, 186, 95);
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.content {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.block {
+    width: 350px;
+    height: 150px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    margin: 200px auto 0;
+    background: url(C:\Users\Надежда\Desktop\GB\08_веб\IMG_6654.jpg);
+}
+
+ul {
+    font-size: 20px;
+    background-color: rgba(113, 212, 47, 0.753);
+}
+
+.header {
+    height: 150px;
+    background-color: #ccc;
+}
+.footer {
+    height: 150px;
+    background-color: #ccc;
+    text-align: center;
+}
+
